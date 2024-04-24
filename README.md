@@ -6,4 +6,5 @@ Explorar las formas primitivas de dibujo con Processing y las diferentes alterna
 Repositorio GitHub: ipmi - Rama: tp1
 
 RESULTADO ✅
+
 ![image](https://github.com/JuanLehue/ipmi/assets/124543057/52839811-0005-4e05-801b-9a28606a5e47)
